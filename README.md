@@ -1,5 +1,1 @@
-# Vehivavy-Mpitarika
-# Vehivavy-Mpitarika
-# Vehivavy-Mpitarika
-# Vehivavy-Mpitarika
-# Vehivavy-Mpitarika
+FISConnect dia rindranasa Android vaovao novolavolaina manokana ho an'ny vehivavy injeniera momba ny masoandro. Ity rindranasa ity dia mampivondrona ny loharanon-karena rehetra ilaina amin'ny fitantanana tetikasa, ny fifandraisana, ary ny fampianarana mitohy eo amin'ny sehatry ny Enrich sy ny injeniera momba ny masoandro. Manolotra interface tsotra sy mora ampiasaina izy, ahafahan'ireo mpampiasa mivezivezy mora foana amin'ireo asa isan-karazany toy ny fanafarana sy fizarana vaovao ary vokatra miaraka amin'ny vondrom-piarahamoniny.
